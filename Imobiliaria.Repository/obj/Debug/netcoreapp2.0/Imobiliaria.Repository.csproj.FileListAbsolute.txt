@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Repository\bin\Debug\netcoreapp2.0\Imobiliaria.Repository.deps.json
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Repository\bin\Debug\netcoreapp2.0\Imobiliaria.Repository.runtimeconfig.json
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Repository\bin\Debug\netcoreapp2.0\Imobiliaria.Repository.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Repository\bin\Debug\netcoreapp2.0\Imobiliaria.Repository.dll
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Repository\bin\Debug\netcoreapp2.0\Imobiliaria.Repository.pdb
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Repository\bin\Debug\netcoreapp2.0\Imobiliaria.Domain.dll
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Repository\bin\Debug\netcoreapp2.0\Imobiliaria.Domain.pdb
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Repository\obj\Debug\netcoreapp2.0\Imobiliaria.Repository.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Repository\obj\Debug\netcoreapp2.0\Imobiliaria.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Repository\obj\Debug\netcoreapp2.0\Imobiliaria.Repository.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Repository\obj\Debug\netcoreapp2.0\Imobiliaria.Repository.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Repository\obj\Debug\netcoreapp2.0\Imobiliaria.Repository.csproj.CopyComplete
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Repository\obj\Debug\netcoreapp2.0\Imobiliaria.Repository.dll
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Repository\obj\Debug\netcoreapp2.0\Imobiliaria.Repository.pdb

@@ -1,0 +1,17 @@
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Web.UI\bin\Debug\netcoreapp2.0\Imobiliaria.Web.UI.deps.json
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Web.UI\bin\Debug\netcoreapp2.0\Imobiliaria.Web.UI.runtimeconfig.json
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Web.UI\bin\Debug\netcoreapp2.0\Imobiliaria.Web.UI.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Web.UI\bin\Debug\netcoreapp2.0\Imobiliaria.Web.UI.dll
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Web.UI\bin\Debug\netcoreapp2.0\Imobiliaria.Web.UI.pdb
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Web.UI\bin\Debug\netcoreapp2.0\Imobiliaria.Domain.dll
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Web.UI\bin\Debug\netcoreapp2.0\Imobiliaria.Repository.dll
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Web.UI\bin\Debug\netcoreapp2.0\Imobiliaria.Domain.pdb
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Web.UI\bin\Debug\netcoreapp2.0\Imobiliaria.Repository.pdb
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Web.UI\obj\Debug\netcoreapp2.0\Imobiliaria.Web.UI.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Web.UI\obj\Debug\netcoreapp2.0\Imobiliaria.Web.UI.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Web.UI\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Web.UI\obj\Debug\netcoreapp2.0\Imobiliaria.Web.UI.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Web.UI\obj\Debug\netcoreapp2.0\Imobiliaria.Web.UI.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Web.UI\obj\Debug\netcoreapp2.0\Imobiliaria.Web.UI.csproj.CopyComplete
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Web.UI\obj\Debug\netcoreapp2.0\Imobiliaria.Web.UI.dll
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Web.UI\obj\Debug\netcoreapp2.0\Imobiliaria.Web.UI.pdb

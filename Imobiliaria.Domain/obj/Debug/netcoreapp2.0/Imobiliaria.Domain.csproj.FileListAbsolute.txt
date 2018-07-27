@@ -1,0 +1,9 @@
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Domain\bin\Debug\netcoreapp2.0\Imobiliaria.Domain.deps.json
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Domain\bin\Debug\netcoreapp2.0\Imobiliaria.Domain.dll
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Domain\bin\Debug\netcoreapp2.0\Imobiliaria.Domain.pdb
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Domain\obj\Debug\netcoreapp2.0\Imobiliaria.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Domain\obj\Debug\netcoreapp2.0\Imobiliaria.Domain.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Domain\obj\Debug\netcoreapp2.0\Imobiliaria.Domain.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Domain\obj\Debug\netcoreapp2.0\Imobiliaria.Domain.dll
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Domain\obj\Debug\netcoreapp2.0\Imobiliaria.Domain.pdb
+C:\Users\Lucas\source\repos\Imobiliaria.Web.UI\Imobiliaria.Domain\obj\Debug\netcoreapp2.0\Imobiliaria.Domain.csprojAssemblyReference.cache
